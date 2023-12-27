@@ -1,6 +1,6 @@
 {
   "name": "Anti-Grabify",
-  "version": "1.14",
+  "version": "1.15",
   "manifest_version": 2,
   "description": "Blocks IP grabbers from Grabify and 50+ other IP grabber links.",
   "background": {
@@ -81,6 +81,26 @@
     "https://iplis.ru/*",
     "https://wl.gl/*",
     "https://ed.tc/*",
-    "https://bc.ax/*"
+    "https://bc.ax/*",
+    "https://mymassive.yachts/*",
+    "https://stonks.boats/*",
+    "https://stonks.fun/*",
+    "https://toes.beauty/*",
+    "https://barefoot.pics/*",
+    "https://shareit.pics/*",
+    "https://gamer.tattoo/*",
+    "https://shipment.website/*",
+    "https://imagevault.cloud/*",
+    "https://sugma.mom/*",
+    "https://yum.mom/*",
+    "https://plz.life/*",
+    "https://massive.mom/*",
+    "https://massive.boats/*",
+    "https://mymassive.store/*",
+    "https://mymassive.top/*",
+    "https://gamer.hair/*",
+    "https://screenshare.pics/*",
+    "https://myprivate.pics/*",
+    "https://noodshare.pics/*"
   ]
 }
